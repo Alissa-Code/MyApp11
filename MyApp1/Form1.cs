@@ -13,5 +13,10 @@ namespace MyApp1
             //123
             //aaaaaaa
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //button click
+        }
     }
 }
